@@ -1,0 +1,10 @@
+#Course Project - Getting and Cleaning Data
+
+## Includes R Scipt,'run_analysis.R', which performs the following operation:
+### 1.) Download the dataset from web if it does not already exist in the working directory;
+### 2.) Read both the testing and training data sets provided;
+### 3.) Combine and extract data pertaining to the mean and standard deviation measurements of both data sets;
+### 4.) Rename both columns and variables in a descriptive way;
+### 5.) Generates a tidy data set;
+
+## The result of this script is provided in the file named, 'CleanedData.txt'
